@@ -1,0 +1,50 @@
+* {
+    font-family: 'Slabo', serif;
+}
+
+a {
+    font-size: 14px;
+}
+
+
+li {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.icons {
+    padding: 10px;
+
+}
+#icons {
+    padding-top: 10px;
+    display: inline;
+}
+
+h1, .card-title {
+    text-align: center;
+}
+
+.nav-wrapper {
+    background-color: #C3423F;
+}
+
+h4 {
+    text-align: center;
+}
+
+body {
+    height: 100%;
+    background-image: url('../assets/images/memphis-mini.png')
+}
+
+.email {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
